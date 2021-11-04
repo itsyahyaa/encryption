@@ -4,6 +4,7 @@
 
 int main()
 {
+  //encrption & dencrption code
    int i,j,a;
    char str[100];
 
